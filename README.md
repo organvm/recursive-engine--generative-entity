@@ -462,7 +462,7 @@ See [ROADMAP.md](ROADMAP.md) for the complete plan with phase descriptions and d
 
 ### System Context
 
-RE:GE is part of the [organvm eight-organ system](https://github.com/meta-organvm) — a creative-institutional architecture coordinating ~79 repositories across 8 GitHub organizations. It serves as the **theoretical foundation** (ORGAN-I) that establishes vocabulary, formal models, and architectural patterns used by all downstream organs.
+RE:GE is part of the [organvm eight-organ system](https://github.com/organvm) — a creative-institutional architecture coordinating 171 repositories across 8 GitHub organizations. It serves as the **theoretical foundation** (ORGAN-I) that establishes vocabulary, formal models, and architectural patterns used by all downstream organs.
 
 ---
 
@@ -500,7 +500,7 @@ MIT License — see [LICENSE](LICENSE) for the full text.
 
 **Author:** [@4444J99](https://github.com/4444J99)
 **Organization:** [organvm-i-theoria](https://github.com/organvm-i-theoria) (ORGAN-I: Theory)
-**System:** [organvm eight-organ system](https://github.com/meta-organvm)
+**System:** [organvm eight-organ system](https://github.com/organvm)
 
 *Last updated: 2026-02-10*
 
